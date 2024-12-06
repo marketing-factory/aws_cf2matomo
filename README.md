@@ -1,4 +1,4 @@
-# aws_CfLogs
+# aws_cf2matomo
 
 Bash-Skript to download CloudFront Logs and pass them to matomo
 
